@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+  Please check out my portfolio at https://www.mattgitto.me for a catalogue of my works!
+
+🔭 I’m currently working on:
+  A fitness application known as Test of Strength - please see a demo below!
+  https://www.testofstrength.app
+  
+  A _Secret_ project based around a personal development application.
+
 <!--
 **mgitto1/mgitto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
