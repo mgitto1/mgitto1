@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-  Please check out my portfolio at https://www.mattgitto.me for a catalogue of my works!
-
 🔭 I’m currently working on:
   A fitness application known as Test of Strength - please see a demo below!
   https://www.testofstrength.app
